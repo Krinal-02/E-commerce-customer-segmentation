@@ -1,0 +1,16 @@
+# Data manipulation and analysis
+pandas==1.5.3
+numpy==1.23.5
+
+# Data visualization
+matplotlib==3.7.1
+seaborn==0.12.2
+
+# Machine learning and clustering
+scikit-learn==1.2.2
+
+# Jupyter notebooks
+notebook==6.5.2
+
+# Streamlit for web app deployment
+streamlit==1.18.0
