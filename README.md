@@ -71,10 +71,10 @@ RFM analysis was applied to derive customer insights. A log transformation was u
 ### Installation
 1. Clone this repository:
    ```bash
-   git clone https://github.com/your-username/customer-segmentation-project.git
+   git clone https://github.com/Krinal-02/E-commerce-customer-segmentation.git
 2. Navigate to the project directory:
    ```bash
-   cd customer-segmentation-project
+   cd E-commerce-customer-segmentation
 3. Install the required packages:
    ```bash
    pip install -r requirements.txt
